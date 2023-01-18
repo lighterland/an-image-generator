@@ -1,0 +1,10 @@
+background/Amethyst.png
+fur/Brown.png
+outerwear/Blacksmith.png
+necklace/Compass.png
+hand/BrownGlove.png
+offhand/BattleAxe.png
+mouth/Angry.png
+eyes/Bored.png
+eyewear/Bionic.png
+headwear/ArmyHelmet.png

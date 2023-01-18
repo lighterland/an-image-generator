@@ -1,0 +1,10 @@
+background
+fur
+outerwear
+necklace
+hand
+offhand
+mouth
+eyes
+eyewear
+headwear

@@ -1,0 +1,29 @@
+background/Amethyst.png : 1
+background/Blue.png : 2
+
+eyes/Angry.png : 1
+eyes/Bored.png : 2
+
+eyewear/Bionic.png : 2
+eyewear/none.png : 1
+
+fur/Black.png : 2
+fur/Brown.png : 1
+
+hand/BlackGlove.png : 3
+hand/BrownGlove.png : 0
+
+headwear/ArmyHelmet.png : 2
+headwear/Aviator.png : 1
+
+mouth/Angry.png : 2
+mouth/Bandana.png : 1
+
+necklace/ArrowHead.png : 2
+necklace/Compass.png : 1
+
+offhand/BattleAxe.png : 1
+offhand/BirbStick.png : 2
+
+outerwear/Blacksmith.png : 1
+outerwear/BoneArmor.png : 2

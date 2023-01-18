@@ -1,0 +1,3 @@
+hand/BrownGlove.png : 3
+fur/Brown.png : 3
+eyes/Angry.png : 3

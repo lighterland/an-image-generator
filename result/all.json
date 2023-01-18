@@ -1,0 +1,143 @@
+{
+    "1": {
+        "name": "#1",
+        "description": "",
+        "image": "1.png",
+        "attributes": [
+            {
+                "trait_type": "background",
+                "value": "Blue"
+            },
+            {
+                "trait_type": "fur",
+                "value": "Black"
+            },
+            {
+                "trait_type": "outerwear",
+                "value": "BoneArmor"
+            },
+            {
+                "trait_type": "necklace",
+                "value": "ArrowHead"
+            },
+            {
+                "trait_type": "hand",
+                "value": "BrownGlove"
+            },
+            {
+                "trait_type": "offhand",
+                "value": "BirbStick"
+            },
+            {
+                "trait_type": "mouth",
+                "value": "Angry"
+            },
+            {
+                "trait_type": "eyes",
+                "value": "Bored"
+            },
+            {
+                "trait_type": "eyewear",
+                "value": "Bionic"
+            },
+            {
+                "trait_type": "headwear",
+                "value": "Aviator"
+            }
+        ]
+    },
+    "2": {
+        "name": "#2",
+        "description": "",
+        "image": "2.png",
+        "attributes": [
+            {
+                "trait_type": "background",
+                "value": "Blue"
+            },
+            {
+                "trait_type": "fur",
+                "value": "Brown"
+            },
+            {
+                "trait_type": "outerwear",
+                "value": "BoneArmor"
+            },
+            {
+                "trait_type": "necklace",
+                "value": "ArrowHead"
+            },
+            {
+                "trait_type": "hand",
+                "value": "BlackGlove"
+            },
+            {
+                "trait_type": "offhand",
+                "value": "BirbStick"
+            },
+            {
+                "trait_type": "mouth",
+                "value": "Bandana"
+            },
+            {
+                "trait_type": "eyes",
+                "value": "Angry"
+            },
+            {
+                "trait_type": "eyewear",
+                "value": "none"
+            },
+            {
+                "trait_type": "headwear",
+                "value": "ArmyHelmet"
+            }
+        ]
+    },
+    "3": {
+        "name": "#3",
+        "description": "",
+        "image": "3.png",
+        "attributes": [
+            {
+                "trait_type": "background",
+                "value": "Amethyst"
+            },
+            {
+                "trait_type": "fur",
+                "value": "Brown"
+            },
+            {
+                "trait_type": "outerwear",
+                "value": "Blacksmith"
+            },
+            {
+                "trait_type": "necklace",
+                "value": "Compass"
+            },
+            {
+                "trait_type": "hand",
+                "value": "BrownGlove"
+            },
+            {
+                "trait_type": "offhand",
+                "value": "BattleAxe"
+            },
+            {
+                "trait_type": "mouth",
+                "value": "Angry"
+            },
+            {
+                "trait_type": "eyes",
+                "value": "Bored"
+            },
+            {
+                "trait_type": "eyewear",
+                "value": "Bionic"
+            },
+            {
+                "trait_type": "headwear",
+                "value": "ArmyHelmet"
+            }
+        ]
+    }
+}

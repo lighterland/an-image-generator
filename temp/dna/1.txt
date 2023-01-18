@@ -1,0 +1,10 @@
+background/Blue.png
+fur/Black.png
+outerwear/BoneArmor.png
+necklace/ArrowHead.png
+hand/BrownGlove.png
+offhand/BirbStick.png
+mouth/Angry.png
+eyes/Bored.png
+eyewear/Bionic.png
+headwear/Aviator.png
