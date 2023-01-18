@@ -11,7 +11,7 @@ def goResize():
 	create_folder()
 	for img in os.listdir('reshuffle/images/'):
 		f = Image.open(f'reshuffle/images/{img}')
-		f = f.resize((1024,1024),Image.ANTIALIAS)
+		f = f.resize((256,256),Image.ANTIALIAS)
 		f.save(f'resize/{img}',optimize=True,quality=10)
 		print(img)
 
