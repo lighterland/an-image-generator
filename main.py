@@ -14,7 +14,7 @@ def dna_existCount(add):
 				f.write(str(count))
 		count += 1
 		print(count)
-		if count > 100 and setting.useRarity_adj:
+		if count > 100 and setting.useRarity_adj: #100 attempts
 			for rarity_adj in open('rarity_adj.txt').read().splitlines():
 				if not os.path.exists('temp/layers/'+rarity_adj.partition(' : ')[0]+'.txt'):
 					with open('temp/layers/'+rarity_adj.partition(' : ')[0]+'.txt','w') as f:
