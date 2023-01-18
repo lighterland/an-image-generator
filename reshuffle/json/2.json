@@ -1,0 +1,47 @@
+{
+    "name": "#2",
+    "description": "",
+    "image": "2.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Amethyst"
+        },
+        {
+            "trait_type": "fur",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "outerwear",
+            "value": "Blacksmith"
+        },
+        {
+            "trait_type": "necklace",
+            "value": "Compass"
+        },
+        {
+            "trait_type": "hand",
+            "value": "BrownGlove"
+        },
+        {
+            "trait_type": "offhand",
+            "value": "BattleAxe"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "Angry"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Bored"
+        },
+        {
+            "trait_type": "eyewear",
+            "value": "Bionic"
+        },
+        {
+            "trait_type": "headwear",
+            "value": "ArmyHelmet"
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "name": "#1",
+    "description": "",
+    "image": "1.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "fur",
+            "value": "Black"
+        },
+        {
+            "trait_type": "outerwear",
+            "value": "BoneArmor"
+        },
+        {
+            "trait_type": "necklace",
+            "value": "ArrowHead"
+        },
+        {
+            "trait_type": "hand",
+            "value": "BrownGlove"
+        },
+        {
+            "trait_type": "offhand",
+            "value": "BirbStick"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "Angry"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Bored"
+        },
+        {
+            "trait_type": "eyewear",
+            "value": "Bionic"
+        },
+        {
+            "trait_type": "headwear",
+            "value": "Aviator"
+        }
+    ]
+}
